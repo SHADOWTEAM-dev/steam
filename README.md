@@ -27,12 +27,7 @@ This tool is intended for educational purposes only. It is not intended to promo
 
 ## Usage
 
-1. Run the Python script:
-
-    ```bash
-    python S4Crk.py
-    ```
-
+1. Run the start.bat.
 2. Follow the prompts to select the original DLL files and the new DLL files.
 3. The program will automatically replace the files, back up the originals, and notify you of success or failure.
 
