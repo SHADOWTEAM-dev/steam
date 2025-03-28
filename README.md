@@ -23,18 +23,7 @@ This tool is intended for educational purposes only. It is not intended to promo
 
 1. Download and RUN the start.bat file
 
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd S4Crk-SHADOWTEAM
-    ```
-
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+***It's that easy!***
 
 ## Usage
 
