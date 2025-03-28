@@ -1,0 +1,14 @@
+WARNING: DO NOT MODIFY OR RENAME ANY .DLL FILES!
+
+This folder contains critical .dll files necessary for the proper operation of the program. If any of these .dll files are renamed, modified, or deleted, the program will fail to work properly or may not start at all.
+
+Important Instructions:
+DO NOT rename or modify any .dll files in this folder.
+
+DO NOT delete or move any .dll files under any circumstances.
+
+If you alter any .dll file, the program will no longer function correctly, and you may need to reinstall or restore the files to their original state.
+
+Please ensure that all files remain intact and unchanged to keep the program running smoothly.
+
+SHADOWTEAM - github.com/SHADOWTEAM-dev
