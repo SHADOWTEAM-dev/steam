@@ -21,11 +21,8 @@ This tool is intended for educational purposes only. It is not intended to promo
 
 ## Installation
 
-1. Clone this repository:
+1. Download and RUN the start.bat file
 
-    ```bash
-    git clone https://github.com/SHADOWTEAM-dev/steam.git
-    ```
 
 2. Navigate to the project directory:
 
