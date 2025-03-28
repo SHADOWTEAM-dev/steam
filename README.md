@@ -2,6 +2,10 @@
 
 This project allows you to easily replace `STEAMAPI64.DLL` and `STEAMAPI.DLL` files. It is designed to help you play games if you're not logged into your Steam account, using alternative DLL files.
 
+## Soon!
+
+The stable version is coming very soon!
+
 ## Purpose
 
 This tool is intended for educational purposes only. It is not intended to promote piracy or illegal activity. The usage of modified DLL files can be against Steam's Terms of Service, so use it at your own risk.
@@ -21,13 +25,14 @@ This tool is intended for educational purposes only. It is not intended to promo
 
 ## Installation
 
-1. Download and RUN the start.bat file
-
-***It's that easy!***
+1. Install the dependencies.
+2. Download and RUN the `start.bat` file.
+   
+   ***It's that easy!***
 
 ## Usage
 
-1. Run the start.bat.
+1. Run the `start.bat`.
 2. Follow the prompts to select the original DLL files and the new DLL files.
 3. The program will automatically replace the files, back up the originals, and notify you of success or failure.
 
