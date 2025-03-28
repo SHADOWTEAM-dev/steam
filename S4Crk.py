@@ -5,7 +5,6 @@ from tkinter import messagebox
 from tkinter import filedialog
 from colorama import Fore, Back, Style, init
 
-# Initialize colorama
 init(autoreset=True)
 
 # Start with a stylish branding message with color
